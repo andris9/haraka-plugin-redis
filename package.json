@@ -10,7 +10,7 @@
     "redis": "^2.6.5"
   },
   "devDependencies": {
-    "eslint": "*",
+    "eslint": ">=4.0.0",
     "eslint-plugin-haraka": "*",
     "haraka-test-fixtures": "*",
     "nodeunit": "*"
