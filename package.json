@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "eslint": "*",
-    "eslint-plugin-haraka": "*",
+    "eslint-plugin-haraka": "1.0.5",
     "haraka-test-fixtures": "*",
     "nodeunit": "*"
   },
